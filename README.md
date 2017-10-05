@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+
 # use_a_theme
 
 ## Who am I?
