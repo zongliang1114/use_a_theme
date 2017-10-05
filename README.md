@@ -2,8 +2,8 @@
 
 ##Who am I?
 
-##I am Zongliang Shang
+I am Zongliang Shang
 
-##What are your favorite color?
+What are your favorite color?
 
-#Pink
+-Pink
