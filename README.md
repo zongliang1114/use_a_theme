@@ -1,9 +1,9 @@
 # use_a_theme
 
-##Who am I?
+## Who am I?
 
 I am Zongliang Shang
 
-What are your favorite color?
+# What are your favorite color?
 
 -Pink
